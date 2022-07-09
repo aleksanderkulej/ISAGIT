@@ -1,4 +1,4 @@
-HTML
+HTML - zadanie 3 poprawki
 
 Aby budować strony internetowe, powinneś znać HTML — podstawową technologię wykorzystywaną do 
 definiowania struktury strony internetowej. HTML służy do określania, czy treść internetowa powinna 
